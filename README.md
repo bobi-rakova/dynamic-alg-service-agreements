@@ -3,8 +3,24 @@ Corporate self-regulation and government regulations are not the only possible p
 
 What kinds of contracts or service agreements could enable a more trustworthy relationship between people and a consumer product heavily utilizing a particular AI model? Could we design such contracts in order to provide transparency building blocks for the AI model, ensuring open and participatory oversight centered on agency and accountability?
 
-Imagine a service agreement that is open-source, generative, dynamic, and accommodating for the plurality of our multidimensional human preferences, such that it:
-* provides an interactive explanation interface for algorithmic outputs by allowing a user of an online platform to understand what data variables were taken into account in the production of a specific algorithmic outcome
-* alerts a user when their repeated interactions with an online platform might be exhibiting a filter bubble or echo chamber effects
-* alerts a user when the information that is being curated for them by an online platform might be a subject of targeted political ad campaigns
-* allows a user of an online platform to dispute an algorithmic outcome (by also providing sufficient evidence to support the dispute) 
+Imagine **computable service agreements** that are open-source, generative, dynamic, and accommodating for the plurality of our multidimensional human preferences, such that they:
+* provide an interactive explanation interface for algorithmic outputs by allowing a user of an online platform to understand what data variables were taken into account in the production of a specific algorithmic outcome
+* alert a user when their repeated interactions with an online platform might be exhibiting a filter bubble or echo chamber effects
+* alert a user when the information that is being curated for them by an online platform might be a subject of targeted political ad campaigns
+* allow users of an online platform to dispute an algorithmic outcome (by also providing sufficient evidence to support the dispute) 
+
+
+This work is building on a research collaboration with Laura Kahn which we presented at the AAAI Spring Symposium 2020 - Towards Responsible AI in Surveillance, Media, and Security through Licensing. [Read our paper here](https://arxiv.org/pdf/1912.04947.pdf) or [this blog post aticle](https://bobi-rakova.medium.com/integrity-beyond-the-terms-of-service-agreement-in-a-human-ai-world-eb2d940da66f).
+
+Key references:
+* Eigen, Z. J. (2012). When and why individuals obey contracts: experimental evidence of consent, compliance, promise, and performance. The Journal of Legal Studies, 41(1), 67-93.
+* Elish, M. C. (2019). Moral crumple zones: Cautionary tales in human-robot interaction (pre-print). Engaging Science, Technology, and Society (pre-print).
+* Hayes, G. R. (2011). The relationship of action research to human-computer interaction. ACM Transactions on Computer-Human Interaction (TOCHI), 18(3), 1-20.
+* Hoffmann, A. L. (2019). Where fairness fails: data, algorithms, and the limits of antidiscrimination discourse. Information, Communication & Society, 22(7), 900-915.
+* Taiuru, Karaitiana. (2021). Māori Data Sovereignty Licences. Retrieved from https://www.taiuru.maori.nz/maori-data-sovereignty-licences/.
+* Winner, L. (1980). Do artifacts have politics? Daedalus, 121-136.
+* Zittrain, J. (2006). The Generative Internet. Harvard Law Review, Vol. 119, p. 1974, Oxford Legal Studies Research Paper No. 28/2006.
+* Terms of Service Didn't Read - https://tosdr.org/
+* Responsible AI Licenses initiative - https://www.licenses.ai/
+
+Have you been thinking about service agreements in the context of consumer tech AI systems? What other relevant projects should we look at? Join us in exploring the future of how we come to terms with AI systems!
