@@ -1,7 +1,5 @@
 # Dynamic Algorithmic Service Agreements
-Home for exploring and building new modes of participatory oversight of consumer products and services that use AI.
-
-Corporate self-regulation and government regulations are not the only possible paths towards empowering a more trustworthy relationship between people and AI systems. The goal for this project and repository is to challenge the existing terms of service and end-user license agreements between people and companies utilizing any form of algorithmic systems. To the best of our knowledge, existing license agreements are not capable of protecting users’ rights and liberties when they interact with AI systems as well as the collective rights of communities which might be impacted by an AI system.
+Corporate self-regulation and government regulations are not the only possible paths towards empowering a more trustworthy relationship between people and AI systems. The goal for this project and repository is to challenge the existing terms-of-service and end-user license agreements between people and companies utilizing any form of algorithmic systems. To the best of our knowledge, existing license agreements are not capable of protecting users’ rights and liberties when they interact with AI systems as well as the collective rights of communities which might be impacted by an AI system.
 
 What kinds of contracts or service agreements could enable a more trustworthy relationship between people and a consumer product heavily utilizing a particular AI model? Could we design such contracts in order to provide transparency building blocks for the AI model, ensuring open and participatory oversight centered on agency and accountability?
 
