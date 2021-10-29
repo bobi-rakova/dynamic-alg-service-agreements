@@ -1,7 +1,7 @@
-# Dynamic Algorithmic Service Agreements
-Corporate self-regulation and government regulations are not the only possible paths towards empowering a more trustworthy relationship between people and AI systems. The goal for this project and repository is to challenge the existing terms-of-service and end-user license agreements between people and companies utilizing any form of algorithmic systems. To the best of our knowledge, existing license agreements are not capable of protecting users’ rights and liberties when they interact with AI systems as well as the collective rights of communities which might be impacted by an AI system.
+# How do we come to terms with AI systems?
+Corporate self-regulation and government regulations are not the only possible paths towards empowering a more trustworthy relationship between people and AI systems. The goal for this project and repository is to challenge the existing terms-of-service and end-user license agreements between people and companies utilizing any form of algorithmic systems. To the best of our knowledge, existing license agreements are not capable of protecting users’ rights and liberties when they interact with the algorithmic outcomes of AI systems as well as the collective rights of communities which might be impacted by an AI system.
 
-What kinds of contracts or service agreements could enable a more trustworthy relationship between people and a consumer product heavily utilizing a particular AI model? Could we design such contracts in order to provide transparency building blocks for the AI model, ensuring open and participatory oversight centered on agency and accountability?
+What kinds of user interface could enable a more trustworthy relationship between people and a consumer product heavily utilizing a particular AI model? Could we design transparency building blocks for AI algorithms, ensuring open and participatory model oversight centered on agency and accountability?
 
 Imagine **computable service agreements** that are open-source, generative, dynamic, and accommodating for the plurality of our multidimensional human preferences, such that they:
 * provide an interactive explanation interface for algorithmic outputs by allowing a user of an online platform to understand what data variables were taken into account in the production of a specific algorithmic outcome
@@ -10,7 +10,7 @@ Imagine **computable service agreements** that are open-source, generative, dyna
 * allow users of an online platform to dispute an algorithmic outcome (by also providing sufficient evidence to support the dispute) 
 
 
-This work is building on a research collaboration with Laura Kahn which we presented at the AAAI Spring Symposium 2020 - Towards Responsible AI in Surveillance, Media, and Security through Licensing. [Read our paper here](https://arxiv.org/pdf/1912.04947.pdf) or [this blog post aticle](https://bobi-rakova.medium.com/integrity-beyond-the-terms-of-service-agreement-in-a-human-ai-world-eb2d940da66f).
+This work is building on a research collaboration with Laura Kahn which we presented at the AAAI Spring Symposium 2020 - Towards Responsible AI in Surveillance, Media, and Security through Licensing. Read our paper [Dynamic Algorithmic Service Agreements Perspective](https://arxiv.org/pdf/1912.04947.pdf) or this blog post on [Integrity beyond the Terms of Service Agreement in a Human + AI world](https://bobi-rakova.medium.com/integrity-beyond-the-terms-of-service-agreement-in-a-human-ai-world-eb2d940da66f).
 
 Key references:
 * Eigen, Z. J. (2012). When and why individuals obey contracts: experimental evidence of consent, compliance, promise, and performance. The Journal of Legal Studies, 41(1), 67-93.
@@ -23,4 +23,4 @@ Key references:
 * Terms of Service Didn't Read - https://tosdr.org/
 * Responsible AI Licenses initiative - https://www.licenses.ai/
 
-Have you been thinking about service agreements in the context of consumer tech AI systems? What other relevant projects should we look at? Join us in exploring the future of how we come to terms with AI systems!
+Have you been thinking about service agreements in the context of consumer tech AI systems? What other relevant projects or academic publications should we look at?
