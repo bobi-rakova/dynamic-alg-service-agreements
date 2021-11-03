@@ -12,6 +12,10 @@ Imagine **computable service agreements** that are open-source, generative, dyna
 
 This work is building on a research collaboration with Laura Kahn which we presented at the AAAI Spring Symposium 2020 - Towards Responsible AI in Surveillance, Media, and Security through Licensing. Read our paper [Dynamic Algorithmic Service Agreements Perspective](https://arxiv.org/pdf/1912.04947.pdf) or this blog post on [Integrity beyond the Terms of Service Agreement in a Human + AI world](https://bobi-rakova.medium.com/integrity-beyond-the-terms-of-service-agreement-in-a-human-ai-world-eb2d940da66f).
 
+## How it works
+
+![alt text](https://github.com/bobi-rakova/dynamic-alg-service-agreements/blob/main/how-it-works-draft.png?raw=true)
+
 Key references:
 * [Mozilla is Crowdsourcing Research into YouTube Recommendations](https://foundation.mozilla.org/en/blog/mozilla-crowdsourcing-research-youtube-recommendations/) - Mozilla has built a browser add-on that transforms YouTube users into YouTube watchdogs
 * Eigen, Z. J. (2012). When and why individuals obey contracts: experimental evidence of consent, compliance, promise, and performance. The Journal of Legal Studies, 41(1), 67-93.
