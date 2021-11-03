@@ -18,10 +18,12 @@ Key references:
 * Elish, M. C. (2019). Moral crumple zones: Cautionary tales in human-robot interaction (pre-print). Engaging Science, Technology, and Society (pre-print).
 * Hayes, G. R. (2011). The relationship of action research to human-computer interaction. ACM Transactions on Computer-Human Interaction (TOCHI), 18(3), 1-20.
 * Hoffmann, A. L. (2019). Where fairness fails: data, algorithms, and the limits of antidiscrimination discourse. Information, Communication & Society, 22(7), 900-915.
-* Taiuru, Karaitiana. (2021). Māori Data Sovereignty Licences. Retrieved from https://www.taiuru.maori.nz/maori-data-sovereignty-licences/.
+* Taiuru, Karaitiana. (2021). [Māori Data Sovereignty Licences](https://www.taiuru.maori.nz/maori-data-sovereignty-licences/).
 * Winner, L. (1980). Do artifacts have politics? Daedalus, 121-136.
 * Zittrain, J. (2006). The Generative Internet. Harvard Law Review, Vol. 119, p. 1974, Oxford Legal Studies Research Paper No. 28/2006.
-* Terms of Service Didn't Read - https://tosdr.org/
-* Responsible AI Licenses initiative - https://www.licenses.ai/
+* Obar, J. A., & Oeldorf-Hirsch, A. (2020). [The biggest lie on the internet: Ignoring the privacy policies and terms of service policies of social networking services.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757465) Information, Communication & Society, 23(1), 128-147.
+* Contractor, D., McDuff, D., Haines, J., Lee, J., Hines, C., & Hecht, B. (2020). Behavioral Use Licensing for Responsible AI. arXiv preprint arXiv:2011.03116.
+* [Terms of Service Didn't Read](https://tosdr.org/)
+* [Responsible AI Licenses initiative](https://www.licenses.ai/)
 
 Have you been thinking about service agreements in the context of consumer tech AI systems? What other relevant projects or academic publications should we look at?
