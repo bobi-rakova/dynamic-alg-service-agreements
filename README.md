@@ -14,7 +14,7 @@ This work is building on a research collaboration with Laura Kahn which we prese
 
 ## How it works
 
-![alt text](https://github.com/bobi-rakova/dynamic-alg-service-agreements/blob/main/how-it-works-draft.png?raw=true)
+![alt text](https://github.com/bobi-rakova/dynamic-alg-service-agreements/blob/main/how-it-works-diagram.png?raw=true)
 
 Related projects:
 * [Mozilla Regrets Reporter project](https://assets.mofoprod.net/network/documents/Mozilla_YouTube_Regrets_Report.pdf) - A crowdsourced investigation into YouTube's recommendation algorithm
